@@ -1,0 +1,12 @@
+{
+  "banner": "Studentoppgave ved USN",
+  "nav": { "hjem": "Hjem", "hytter": "Hytter", "turer": "Turer", "kart": "Kart" },
+  "hjem": { "tittel": "Velkommen til Turistforeningen i Utopia", "tekst": "Finn hytter og turer, og planlegg fellesturer." },
+  "hytter": { "tittel": "Hytter", "filter": "Filter", "alle": "Alle", "betjent": "Betjent", "ubetjent": "Ubetjent", "maksPris": "Maks pris", "fra": "fra", "pris": "Pris pr. natt", "senger": "Sengeplasser", "region": "Region", "tilbake": "Tilbake", "ikkeFunnet": "Fant ikke hytta" },
+  "turer": { "tittel": "Turer", "type": "Type", "vanskelighet": "Vanskelighetsgrad", "dager": "dager", "fleksibel": "Fleksibel startdato", "fast": "Fast startdato" },
+  "kart": { "tittel": "Kart over hytter" },
+  "logginn": { "tittel": "Innlogging", "info": "Logg inn for å lagre favoritter.", "brukernavn": "Brukernavn", "passord": "Passord", "knapp": "Logg inn", "loggUt": "Logg ut" },
+  "fav": { "tittel": "Favoritter for", "tom": "Ingen favoritter ennå.", "legg": "Legg til favoritt", "fjern": "Fjern favoritt" },
+  "footer": "Turistforeningen i Utopia",
+  "ikkeFunnet": "Nettsiden finnes ikke (feilkode 404)"
+}

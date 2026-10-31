@@ -1,0 +1,8 @@
+[
+  { "id": 1, "navn": "Gjendesheim", "region": "Jotunheimen", "betjent": true, "pris": 650, "senger": 130, "lat": 61.495, "lng": 8.811,
+    "beskrivelse": { "no": "Utgangspunkt for turen over Besseggen.", "en": "Starting point for the hike across Besseggen." } },
+  { "id": 2, "navn": "Glitterheim", "region": "Jotunheimen", "betjent": true, "pris": 700, "senger": 100, "lat": 61.664, "lng": 8.565,
+    "beskrivelse": { "no": "Høytliggende hytte ved Glittertind.", "en": "High-altitude lodge near Glittertind." } },
+  { "id": 3, "navn": "Kvanndalen", "region": "Hardangervidda", "betjent": false, "pris": 350, "senger": 20, "lat": 60.35, "lng": 7.6,
+    "beskrivelse": { "no": "Ubetjent hytte med selvbetjening.", "en": "Unstaffed self-service cabin." } }
+]

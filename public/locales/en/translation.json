@@ -1,0 +1,12 @@
+{
+  "banner": "Student project at USN",
+  "nav": { "hjem": "Home", "hytter": "Cabins", "turer": "Trips", "kart": "Map" },
+  "hjem": { "tittel": "Welcome to the Utopia Trekking Association", "tekst": "Find cabins and trips, and plan group trips." },
+  "hytter": { "tittel": "Cabins", "filter": "Filter", "alle": "All", "betjent": "Staffed", "ubetjent": "Unstaffed", "maksPris": "Max price", "fra": "from", "pris": "Price per night", "senger": "Beds", "region": "Region", "tilbake": "Back", "ikkeFunnet": "Cabin not found" },
+  "turer": { "tittel": "Trips", "type": "Type", "vanskelighet": "Difficulty", "dager": "days", "fleksibel": "Flexible start date", "fast": "Fixed start date" },
+  "kart": { "tittel": "Map of cabins" },
+  "logginn": { "tittel": "Login", "info": "Log in to save favourites.", "brukernavn": "Username", "passord": "Password", "knapp": "Log in", "loggUt": "Log out" },
+  "fav": { "tittel": "Favourites for", "tom": "No favourites yet.", "legg": "Add favourite", "fjern": "Remove favourite" },
+  "footer": "Utopia Trekking Association",
+  "ikkeFunnet": "Page not found (error 404)"
+}

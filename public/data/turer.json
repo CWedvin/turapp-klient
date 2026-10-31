@@ -1,0 +1,5 @@
+[
+  { "id": 1, "navn": "Besseggen", "type": "fottur", "vanskelighet": "middels", "dager": 1, "fleksibel": false },
+  { "id": 2, "navn": "Hardangervidda på tvers", "type": "fottur", "vanskelighet": "krevende", "dager": 5, "fleksibel": true },
+  { "id": 3, "navn": "Gaustatoppen på ski", "type": "skitur", "vanskelighet": "krevende", "dager": 1, "fleksibel": true }
+]
